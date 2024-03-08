@@ -1,0 +1,1 @@
+Primeiro projeto mobile, tentativa de um app de streaming
